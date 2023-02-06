@@ -1,3 +1,4 @@
 # Otex
 
-https://github-readme-stats.vercel.app/api?Otexx&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Otexxx&theme=radical)
+
